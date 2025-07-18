@@ -1,0 +1,5 @@
+
+# Allow .gitignore itself
+!.gitignore 
+
+node_modules/
